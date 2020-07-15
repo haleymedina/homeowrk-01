@@ -1,2 +1,2 @@
-# homeowrk-01
+# homework-01
 refactor homework
